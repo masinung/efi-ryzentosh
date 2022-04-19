@@ -19,7 +19,7 @@ This configuration works well on AMD Ryzen 5 1400 with the following specs
 
 - Motherboard : Asrock A320M-HDV
 - Processor : AMD Ryzen 5 1400
-- dGPU : XFX RX470 & GeForce GT730 (GK208)
+- dGPU : XFX RX470 / GeForce GT730 (GK208)
 - RAM : 2 x 8 GB DDR4
 - Storage : 256GB SSD
 - Display Resolution : FHD 1920x1080
@@ -35,13 +35,13 @@ If your specifications are similar or exactly same as the specifications above, 
 
 ## What's Working ?
 
-- QE/CI XFX RX470
+- QE/CI XFX RX470 / GeForce GT730 (GK208)
 - Restart, Sleep and Shutdown
 - Internal Speaker, Headphone, External USB Soundcard (Tested : Behringer UMC 202 HD)
 - Ethernet
 - HDMI out
 - D-Sub Out
-- USB 3.0 Port
+- ALL USB Port (with USB Toolbox Method)
 - Etc
 
 ## What's Not Tested ?
@@ -51,7 +51,6 @@ If your specifications are similar or exactly same as the specifications above, 
 
 ## What's Not Working ?
 
-- USB 2.0 Port (Need Remapping)
 - iMessage
 - Facetime
 
