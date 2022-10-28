@@ -55,6 +55,8 @@ If your specifications are similar or exactly same as the specifications above, 
 - iMessage
 - Facetime
 
+## Screenshot
+![Screenshot 1](https://github.com/masinung/efi-ryzen2/blob/main/ventura.png)
 
 
 ## Thanks To :
