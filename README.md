@@ -1,6 +1,6 @@
 # Opencore Configuration For AMD Ryzen 5 1400
  
-[![standard-readme compliant](https://img.shields.io/static/v1?label=OpenCore&message=v0.7.9&color=success)](https://github.com/masinung/oc-efi-ryzen5-1400)
+[![standard-readme compliant](https://img.shields.io/static/v1?label=OpenCore&message=v0.8.5&color=success)](https://github.com/masinung/oc-efi-ryzen5-1400)
 [![standard-readme compliant](https://img.shields.io/static/v1?label=AMD&message=Ryzen-5-1400&color=red)](https://github.com/masinung/oc-efi-ryzen5-1400)
 [![standard-readme compliant](https://img.shields.io/static/v1?label=ASROCK&message=A320M-HDV&color=inactive)](https://github.com/masinung/oc-efi-ryzen5-1400)
 
@@ -23,11 +23,12 @@ This configuration works well on AMD Ryzen 5 1400 with the following specs
 - RAM : 2 x 8 GB DDR4
 - Storage : 256GB SSD
 - Display Resolution : FHD 1920x1080
-- Bootloader : OpenCore r0.7.9
+- Bootloader : OpenCore r0.8.5
 - Tested OS : 
   - macOS Mojave 10.14.6
   - macOS Catalina 10.15.5
-  - macOS BigSur 11.5.1
+  - macOS BigSur 11.7
+  - macOS Ventura 13.0 (use Opencore Legacy Patcher to activate kepler)
 
 If your specifications are similar or exactly same as the specifications above, then you can try this configuration to be applied
 
@@ -60,6 +61,7 @@ If your specifications are similar or exactly same as the specifications above, 
 
 - HACKINTOSH LOVER FB Group
 - Haris Muhazir YT Channel
+- Mikigal Repo
 
 # Keep Hackintosh and Keep Hairfall
 
